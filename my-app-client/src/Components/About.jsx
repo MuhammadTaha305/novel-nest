@@ -1,0 +1,1 @@
+// Remove About.jsx component file as the About page is no longer needed
