@@ -9,3 +9,10 @@ This is a simple a simple Project built using the MERN (MongoDB, Express.js, Rea
 + **Frontend CRUD**: The frontend of the project provides a user interface for performing CRUD operations on novels.
 + **Frontend Router**: React Router is used to create client-side routing.
 + **Sign-in / Sign-out**: Users can sign-in or sign-out using Google or Emailid and Password.
+
+## Authors
+
+Built collaboratively by:
+- **[Muhammad Taha](https://github.com/MuhammadTaha305)**
+- **Maier Ali**
+- **Aqil Ahmad**
