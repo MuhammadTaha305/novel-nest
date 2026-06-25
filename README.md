@@ -1,4 +1,6 @@
 # MERN STACK Novel Reading APP
+
+> 📚 **Course:** Web Development — Spring 2025, NUST SEECS
 ## Description
 This is a simple a simple Project built using the MERN (MongoDB, Express.js, React, and Node.js) stack.
 ## Features
@@ -14,5 +16,5 @@ This is a simple a simple Project built using the MERN (MongoDB, Express.js, Rea
 
 Built collaboratively by:
 - **[Muhammad Taha](https://github.com/MuhammadTaha305)**
-- **Maier Ali**
+- **[Maier Ali](https://github.com/atomicfalcon)**
 - **Aqil Ahmad**
